@@ -1,0 +1,3 @@
+asset/* linguist-vendored
+*.md linguist-vendored
+*.go linguist-language=GOLANG
